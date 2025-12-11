@@ -81,3 +81,14 @@ The goal is to help management identify:
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/saravanan-cs)  
 
 ---
+
+## 📸 Dashboard Preview
+
+### Company Overview
+![Company Overview](img/D1.png)
+
+### Department Performance
+![Department Performance](img/D2.png)
+
+### Employee Performance
+![Employee Performance](img/D3.png)
