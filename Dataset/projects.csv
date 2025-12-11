@@ -1,0 +1,180 @@
+project_id,emp_id,project_name,hours_spent,status,month
+1,1,Project_4,17,In Progress,2024-09
+2,1,Project_14,57,Completed,2024-12
+3,1,Project_2,91,In Progress,2024-12
+4,2,Project_2,56,In Progress,2024-07
+5,2,Project_8,29,Completed,2024-10
+6,3,Project_14,28,Completed,2024-08
+7,3,Project_28,14,Completed,2024-11
+8,3,Project_4,11,In Progress,2024-11
+9,4,Project_3,101,In Progress,2024-08
+10,4,Project_14,67,Completed,2024-10
+11,5,Project_6,53,Completed,2024-10
+12,5,Project_9,105,In Progress,2024-09
+13,6,Project_23,98,On Hold,2024-11
+14,6,Project_22,96,Completed,2024-08
+15,6,Project_10,32,On Hold,2024-11
+16,6,Project_24,74,Completed,2024-09
+17,6,Project_2,11,Completed,2024-11
+18,7,Project_2,70,Completed,2024-08
+19,7,Project_3,81,Completed,2024-08
+20,7,Project_13,20,On Hold,2024-11
+21,8,Project_19,81,Completed,2024-07
+22,8,Project_14,89,Completed,2024-11
+23,8,Project_11,38,Completed,2024-12
+24,9,Project_8,38,Completed,2024-12
+25,9,Project_21,43,Completed,2024-07
+26,9,Project_1,63,In Progress,2024-11
+27,9,Project_4,14,Completed,2024-11
+28,10,Project_5,49,In Progress,2024-08
+29,10,Project_12,41,Completed,2024-11
+30,10,Project_23,43,In Progress,2024-12
+31,10,Project_17,6,In Progress,2024-11
+32,11,Project_30,89,Completed,2024-08
+33,11,Project_9,19,In Progress,2024-12
+34,11,Project_18,24,Completed,2024-11
+35,11,Project_7,96,Completed,2024-12
+36,12,Project_17,67,Completed,2024-07
+37,12,Project_3,86,Completed,2024-09
+38,12,Project_2,5,Completed,2024-08
+39,12,Project_21,38,Completed,2024-10
+40,13,Project_18,6,Completed,2024-12
+41,13,Project_29,24,Completed,2024-09
+42,13,Project_19,75,Completed,2024-08
+43,13,Project_2,44,Completed,2024-07
+44,13,Project_29,50,Completed,2024-08
+45,14,Project_12,104,Completed,2024-10
+46,14,Project_20,100,Completed,2024-08
+47,15,Project_26,108,Completed,2024-10
+48,15,Project_1,27,In Progress,2024-09
+49,15,Project_26,57,In Progress,2024-12
+50,16,Project_9,25,In Progress,2024-07
+51,16,Project_13,116,Completed,2024-10
+52,16,Project_8,30,In Progress,2024-10
+53,17,Project_10,110,In Progress,2024-08
+54,17,Project_8,8,In Progress,2024-10
+55,17,Project_11,40,In Progress,2024-09
+56,17,Project_12,87,Completed,2024-12
+57,18,Project_1,19,In Progress,2024-09
+58,18,Project_6,79,On Hold,2024-09
+59,18,Project_2,18,Completed,2024-09
+60,18,Project_24,105,Completed,2024-11
+61,19,Project_13,120,Completed,2024-09
+62,19,Project_2,95,Completed,2024-11
+63,20,Project_12,60,Completed,2024-12
+64,20,Project_30,47,In Progress,2024-12
+65,20,Project_28,20,In Progress,2024-09
+66,21,Project_22,57,Completed,2024-12
+67,21,Project_10,75,Completed,2024-10
+68,21,Project_22,53,In Progress,2024-08
+69,21,Project_20,77,Completed,2024-11
+70,22,Project_10,41,Completed,2024-11
+71,22,Project_20,88,Completed,2024-10
+72,23,Project_22,32,Completed,2024-12
+73,23,Project_6,89,Completed,2024-11
+74,23,Project_22,86,In Progress,2024-07
+75,23,Project_27,101,Completed,2024-09
+76,23,Project_8,108,Completed,2024-07
+77,24,Project_8,65,In Progress,2024-07
+78,24,Project_15,58,In Progress,2024-11
+79,25,Project_23,94,Completed,2024-10
+80,25,Project_8,23,In Progress,2024-07
+81,25,Project_29,101,In Progress,2024-07
+82,26,Project_8,27,In Progress,2024-12
+83,26,Project_17,64,Completed,2024-08
+84,26,Project_30,113,Completed,2024-08
+85,26,Project_26,64,In Progress,2024-11
+86,26,Project_20,45,On Hold,2024-10
+87,27,Project_27,75,Completed,2024-08
+88,27,Project_24,115,Completed,2024-09
+89,27,Project_25,36,In Progress,2024-09
+90,27,Project_25,104,Completed,2024-12
+91,27,Project_8,40,Completed,2024-12
+92,28,Project_8,39,Completed,2024-11
+93,28,Project_3,22,Completed,2024-10
+94,28,Project_23,24,In Progress,2024-07
+95,28,Project_14,57,Completed,2024-10
+96,29,Project_2,31,In Progress,2024-10
+97,29,Project_29,103,Completed,2024-12
+98,29,Project_1,114,In Progress,2024-11
+99,29,Project_13,66,Completed,2024-09
+100,29,Project_10,101,Completed,2024-10
+101,30,Project_16,33,Completed,2024-10
+102,30,Project_1,54,Completed,2024-12
+103,30,Project_26,56,In Progress,2024-10
+104,31,Project_20,73,Completed,2024-10
+105,31,Project_19,77,In Progress,2024-07
+106,31,Project_21,59,Completed,2024-10
+107,32,Project_2,38,Completed,2024-08
+108,32,Project_15,46,Completed,2024-10
+109,32,Project_9,101,On Hold,2024-10
+110,33,Project_27,15,Completed,2024-12
+111,33,Project_18,11,On Hold,2024-09
+112,33,Project_8,88,Completed,2024-12
+113,33,Project_2,101,Completed,2024-08
+114,34,Project_27,7,In Progress,2024-08
+115,34,Project_5,65,In Progress,2024-11
+116,34,Project_7,64,In Progress,2024-09
+117,35,Project_20,82,On Hold,2024-12
+118,35,Project_4,104,In Progress,2024-09
+119,35,Project_4,79,Completed,2024-09
+120,36,Project_13,96,Completed,2024-11
+121,36,Project_23,111,In Progress,2024-07
+122,36,Project_23,103,Completed,2024-12
+123,36,Project_20,108,Completed,2024-11
+124,36,Project_26,10,Completed,2024-10
+125,37,Project_3,69,In Progress,2024-07
+126,37,Project_28,58,In Progress,2024-07
+127,37,Project_14,51,In Progress,2024-10
+128,37,Project_23,24,Completed,2024-12
+129,38,Project_20,108,On Hold,2024-10
+130,38,Project_15,60,In Progress,2024-11
+131,38,Project_9,46,In Progress,2024-07
+132,38,Project_9,117,Completed,2024-10
+133,39,Project_11,8,Completed,2024-09
+134,39,Project_6,67,Completed,2024-09
+135,39,Project_11,40,In Progress,2024-12
+136,39,Project_29,40,Completed,2024-11
+137,39,Project_7,15,Completed,2024-10
+138,40,Project_18,102,Completed,2024-10
+139,40,Project_21,96,Completed,2024-07
+140,40,Project_3,42,Completed,2024-12
+141,40,Project_8,44,In Progress,2024-09
+142,40,Project_16,75,Completed,2024-10
+143,41,Project_12,94,Completed,2024-09
+144,41,Project_9,34,Completed,2024-08
+145,41,Project_11,20,In Progress,2024-12
+146,41,Project_6,29,Completed,2024-10
+147,42,Project_24,80,On Hold,2024-11
+148,42,Project_20,41,On Hold,2024-08
+149,42,Project_10,34,Completed,2024-09
+150,42,Project_1,95,Completed,2024-09
+151,43,Project_2,75,Completed,2024-08
+152,43,Project_21,116,In Progress,2024-07
+153,44,Project_19,41,Completed,2024-10
+154,44,Project_11,28,On Hold,2024-09
+155,45,Project_4,110,Completed,2024-10
+156,45,Project_3,78,In Progress,2024-07
+157,45,Project_5,24,In Progress,2024-09
+158,45,Project_3,36,Completed,2024-10
+159,45,Project_20,81,In Progress,2024-08
+160,46,Project_15,61,Completed,2024-11
+161,46,Project_14,44,Completed,2024-07
+162,46,Project_20,99,Completed,2024-08
+163,46,Project_21,32,Completed,2024-07
+164,46,Project_6,35,Completed,2024-07
+165,47,Project_1,57,Completed,2024-11
+166,47,Project_16,42,Completed,2024-09
+167,47,Project_23,41,In Progress,2024-10
+168,48,Project_22,34,On Hold,2024-12
+169,48,Project_19,89,In Progress,2024-08
+170,49,Project_4,74,Completed,2024-08
+171,49,Project_30,39,In Progress,2024-07
+172,49,Project_2,26,In Progress,2024-11
+173,49,Project_24,110,Completed,2024-09
+174,49,Project_15,20,Completed,2024-09
+175,50,Project_9,69,Completed,2024-10
+176,50,Project_3,81,Completed,2024-10
+177,50,Project_24,46,In Progress,2024-07
+178,50,Project_3,34,On Hold,2024-11
+179,50,Project_19,7,On Hold,2024-12

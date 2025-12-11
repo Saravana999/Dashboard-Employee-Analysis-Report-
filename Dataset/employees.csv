@@ -1,0 +1,51 @@
+emp_id,name,age,department,role,join_date
+1,Emp_001,23,Support,Support Engineer,2024-05-01
+2,Emp_002,25,HR,HR Executive,2024-02-01
+3,Emp_003,33,Support,Support Engineer,2024-07-01
+4,Emp_004,22,Engineering,Backend Engineer,2022-04-01
+5,Emp_005,31,Marketing,Content Executive,2024-04-01
+6,Emp_006,32,Support,Customer Success,2022-08-01
+7,Emp_007,26,Marketing,Content Executive,2022-12-01
+8,Emp_008,27,Finance,Accountant,2022-04-01
+9,Emp_009,23,Sales,Sales Executive,2023-02-01
+10,Emp_010,35,Sales,Account Manager,2024-05-01
+11,Emp_011,33,Engineering,QA Engineer,2024-02-01
+12,Emp_012,23,Finance,Accountant,2024-10-01
+13,Emp_013,31,Sales,Sales Executive,2024-02-01
+14,Emp_014,32,Engineering,Backend Engineer,2023-02-01
+15,Emp_015,35,HR,HR Executive,2023-05-01
+16,Emp_016,32,Finance,Accountant,2022-06-01
+17,Emp_017,25,Sales,Account Manager,2024-11-01
+18,Emp_018,23,Support,Support Engineer,2024-12-01
+19,Emp_019,24,HR,Recruiter,2023-05-01
+20,Emp_020,33,Support,Support Engineer,2024-06-01
+21,Emp_021,25,Engineering,Backend Engineer,2023-07-01
+22,Emp_022,23,Sales,Sales Executive,2024-12-01
+23,Emp_023,25,Sales,Account Manager,2023-11-01
+24,Emp_024,24,Finance,Accountant,2022-04-01
+25,Emp_025,30,Support,Customer Success,2024-10-01
+26,Emp_026,31,Finance,Accountant,2023-04-01
+27,Emp_027,30,HR,Recruiter,2022-01-01
+28,Emp_028,24,Engineering,DevOps Trainee,2022-11-01
+29,Emp_029,31,Finance,Finance Analyst,2023-07-01
+30,Emp_030,29,Marketing,SEO Analyst,2024-01-01
+31,Emp_031,33,Support,Support Engineer,2024-09-01
+32,Emp_032,34,Sales,Account Manager,2022-05-01
+33,Emp_033,24,Finance,Accountant,2022-12-01
+34,Emp_034,26,Support,Support Engineer,2024-02-01
+35,Emp_035,26,Support,Support Engineer,2022-06-01
+36,Emp_036,30,HR,HR Executive,2024-06-01
+37,Emp_037,22,Finance,Finance Analyst,2023-05-01
+38,Emp_038,22,HR,HR Executive,2024-02-01
+39,Emp_039,33,Engineering,QA Engineer,2022-09-01
+40,Emp_040,24,HR,Recruiter,2024-03-01
+41,Emp_041,30,Sales,Account Manager,2022-09-01
+42,Emp_042,33,Support,Support Engineer,2024-05-01
+43,Emp_043,32,Finance,Accountant,2023-09-01
+44,Emp_044,23,Finance,Finance Analyst,2022-02-01
+45,Emp_045,22,Sales,Sales Executive,2024-04-01
+46,Emp_046,23,Engineering,DevOps Trainee,2024-01-01
+47,Emp_047,23,HR,HR Executive,2023-02-01
+48,Emp_048,25,Marketing,SEO Analyst,2024-08-01
+49,Emp_049,30,HR,HR Executive,2024-10-01
+50,Emp_050,29,Marketing,Content Executive,2023-07-01
